@@ -1,5 +1,5 @@
 # import sys
-# s = sys.stdin.readline()
+# s = sys.stdin.readline() <- 여러 줄 입력받을 때 제한 시간안에 끝낼 수 있음!
 words = input().strip()
 alphabet = [0 for i in range(26)]
 
