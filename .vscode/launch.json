@@ -3,5 +3,20 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DFS2",
+            "request": "launch",
+            "mainClass": "BFS_DFS.DFS2",
+            "projectName": "Algorithms_DataStructures_195d90e1"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "BFS_DFS.DFS",
+            "projectName": "Algorithms_DataStructures_195d90e1"
+        }
+    ]
 }
